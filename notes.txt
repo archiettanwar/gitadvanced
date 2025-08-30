@@ -1,1 +1,3 @@
 Initial notes
+second line(local)
+third line(global)
